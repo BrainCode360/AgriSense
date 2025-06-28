@@ -1,12 +1,9 @@
-# AgriSense
-An IoT-powered smart agriculture system designed to transform traditional farming into a data-driven, efficient, and sustainable practice
+
 <!-- README.md for AgriSense -->
 
-<p align="center">
-  <img src="docs/assets/agrisense_banner.png" alt="AgriSense Banner" width="50%">
-</p>
 
-<h1 align="center">🌱 AgriSense</h1>
+<h1 align="center"> <img src="docs/assets/agrisense_banner.png" alt="AgriSense Banner" width="10%"> AgriSense  🌱
+</h1>
 
 <h3 align="center">
   Revolutionizing Farming with Smart IoT & AI Solutions
@@ -25,7 +22,7 @@ An IoT-powered smart agriculture system designed to transform traditional farmin
 </p>
 
 ---
-
+An IoT-powered smart agriculture system designed to transform traditional farming into a data-driven, efficient, and sustainable practice
 ## 🌍 Overview
 
 Modern agriculture faces unprecedented challenges — rising global food demand, unpredictable weather, and increasing resource scarcity. **AgriSense** meets this challenge head-on by merging **IoT, AI, and smart sensors** into a unified solution that empowers farmers to make informed, real-time decisions for more efficient and sustainable farming.
@@ -33,6 +30,9 @@ Modern agriculture faces unprecedented challenges — rising global food demand,
 > “From soil to cloud — smart farming made simple.”
 
 ---
+<p align="center">
+  <img src="docs/assets/banner.png" alt="AgriSense Banner" width="80%">
+</p>
 
 ## 🔍 What is AgriSense?
 
